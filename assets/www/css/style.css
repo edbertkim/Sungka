@@ -1,0 +1,17 @@
+body{
+	background:	#303030;
+	/*cursor: none;*/
+	margin:		0px;
+	padding: 	0px;
+}
+
+#myCavas{
+	display:	block;
+	background:	#ffffff;
+	margin:		0px auto;
+	padding: 	0px;
+}
+#like {
+	padding: 	0px;
+	margin: 	0px;
+}
